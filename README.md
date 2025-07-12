@@ -38,18 +38,6 @@ Develop a Skill Swap Platform — a mini application that enables users to list 
 
 ---
 
-## Environment Setup
-
-1. Copy `.env.example` to `.env`
-2. Fill in your Firebase configuration values:
-   - `VITE_FIREBASE_API_KEY`: Your Firebase API key
-   - `VITE_FIREBASE_AUTH_DOMAIN`: Your Firebase auth domain
-   - `VITE_FIREBASE_PROJECT_ID`: Your Firebase project ID
-   - `VITE_FIREBASE_STORAGE_BUCKET`: Your Firebase storage bucket
-   - `VITE_FIREBASE_MESSAGING_SENDER_ID`: Your Firebase messaging sender ID
-   - `VITE_FIREBASE_APP_ID`: Your Firebase app ID
-
-3. Never commit the `.env` file to version control
 
 ## 👨‍💻 Team Members
 
