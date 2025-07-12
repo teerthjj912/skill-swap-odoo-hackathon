@@ -2,6 +2,8 @@
 
 This project is built for the 💡 Odoo Hackathon 2025.
 
+Video link- https://drive.google.com/file/d/18LQZFitciZDdMyzsvz2pyFkL9tr71oif/view?usp=sharing
+
 ## 📌 Problem Statement 1 — Skill Swap Platform
 
 Develop a Skill Swap Platform — a mini application that enables users to list their skills and request others in return.
